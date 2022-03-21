@@ -1,6 +1,6 @@
 <div >
 <div align="center">
-<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" onClick="" /> -->
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" onClick="" />
 </div>  
   
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on The Closet, a Web3 based startup with a twist... ;)  
   
 
-- 🌱 I’m currently learning GraphQL, Web3 and DB Design  
+- 🌱 I’m currently learning Web3 and DB Design  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
