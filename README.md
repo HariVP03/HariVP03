@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on The Closet, a Web3 based startup with a twist... ;)  
   
 
-- 🌱 I’m currently learning GraphQL, database design  
+- 🌱 I’m currently learning GraphQL, Web3 and DB Design  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
