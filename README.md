@@ -1,10 +1,10 @@
 <div >
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" onClick="" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" onClick="" /> -->
 </div>  
   
 
-### <div align="center">Hey there! I'm Hari Vishnu Parashar, a Web Developer and proud learning freak.</div>  
+### <h1 align="center">Hey there! I'm Hari Vishnu Parashar, a Web Developer and proud learning freak.</h1>  
   
 
 - 🔭 I’m currently working on The Closet, a Web3 based startup with a twist... ;)  
@@ -43,12 +43,10 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
 
