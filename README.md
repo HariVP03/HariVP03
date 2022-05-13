@@ -4,7 +4,7 @@
 </div>  
   
 
-### <h1 align="center">Web Developer and Proud Learning Freak.... :)</h1>  
+### <h1 align="center">Web Developer and Proud Learning Freak....😁</h1>  
   
 
 - 🔭 I’m currently working on DeUPI, a web3 based startup
@@ -22,7 +22,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 💻 My Tech Stack  
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,42 +69,23 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/HariVP03" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://linkedin.com/in/hari-vishnu-parashar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HariVP03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=HariVP03&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HariVP03&theme=gotham&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariVP03&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 <br/>  
+<br/>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HariVP03&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=HariVP03&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
 <br />
 
 ----
